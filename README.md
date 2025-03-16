@@ -1,2 +1,2 @@
-# Git-Activity
-This Repository would serve as an educational repository use for demo git/github activity
+# Git-Activity-Repository
+This Repository would serve as an activity repository for the task that was given to us. This activity showcases the fundamentals of Git, focusing on manually creating and linking the git to github desktop, it utilizes essential Git commands to manually create the said files and manually configure it. In this activity we shall learn how to initialize a repository, commite updates, utilize branches, and other more. It covers the essential commands such as git init, git add, git commit, git status, git branch, git log, and other more. In the end of this project, we're expected to understand and apply all of the fundamentals of git and understand how it helps developers collaborate and develop and/or finish their projects.
